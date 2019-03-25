@@ -23,7 +23,7 @@ public class MainApp {
     public  static void myMethod1(){
 
         System.out.println("Try try to the changes madeg");
-        System.out.println("changes");
+        System.out.println("changes changes");
 
     }
 
